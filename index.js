@@ -28,12 +28,12 @@ function verify() {
 }
 verify();
 
-say('The-MikuBot-MD', {
+say('Jota-Bot', {
   font: 'chrome',
   align: 'center',
   colors: ['white']
 });
-say(`Developed By • AdrianOficial`, {
+say(`Bot by Jota`, {
   font: 'console',
   align: 'center',
   colors: ['magenta']
